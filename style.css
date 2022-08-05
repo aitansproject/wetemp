@@ -4,7 +4,7 @@ body {
 }
 
 #wetemp .box {
-  background-color: #93bdfc;
+  background-color: #90baf8;
   padding: 38px;
   margin: 140px 0;
   border-radius: 30px;
@@ -17,7 +17,7 @@ body {
 #wetemp .box .btn {
   display: block;
   padding: 12px;
-  margin: 10px auto;
+  margin: 25px auto;
   color: white;
   background-color: #659ff5;
   width: 220px;
