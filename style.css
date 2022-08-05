@@ -1,4 +1,9 @@
 body {
   font-family: "Dosis", sans-serif;
   font-weight: 500;
+}
+
+#wetemp {
+  background-color: #9cc4df;
+  padding: 70px 0;
 }/*# sourceMappingURL=style.css.map */
