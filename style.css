@@ -10,7 +10,7 @@ body {
   width: 100%;
   border-radius: 30px;
 }
-#wetemp .box .textbox h1, #wetemp .box .textbox h3 {
+#wetemp .box .data h1, #wetemp .box .data h3 {
   font-size: 30px;
   color: white;
   margin-bottom: 26px;
