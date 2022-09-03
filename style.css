@@ -15,7 +15,7 @@ body {
   color: white;
   margin-bottom: 26px;
 }
-#wetemp .box .btn {
+#wetemp .box #btn {
   display: block;
   margin: 25px auto;
   padding: 12px;
@@ -23,5 +23,7 @@ body {
   background-color: #659ff5;
   width: 220px;
   border-radius: 25px;
+}
+#wetemp .box #btn:hover {
   cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
