@@ -27,10 +27,9 @@ $(document).ready(function () {
             $("#temperature").html(textbox.main.temperature)
             $("#feels").html(textbox.main.feels_like)
             $("#myWeather").val("")
-            console.log(data)
+            console.log(textbox)
         }
         myweather()
     })
-
 
 });
