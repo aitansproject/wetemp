@@ -1,4 +1,3 @@
-"use strict";
 $(document).ready(function () {
 
     $(document).on('keypress', function (e) {
@@ -32,4 +31,4 @@ $(document).ready(function () {
         myWeather()
     })
 
-});
+})
